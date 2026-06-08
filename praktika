@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>  
+    <title>praktika</title>       
+</head>
+<body>
+    <script>
+        let name = "Azamat"
+        let bar = true
+     
+        if ( name ){
+            console.log(`$[name] xosh keldin!`)
+        } else{
+            console.log("sen kimsen")
+        }
+        
+        let miywe = "banan"
+        let bahasi = 27000        
+
+        if(bahasi <= 2000){
+            console.log("banan arzan eken")
+        } else{
+            console.log("qimbat")
+        }
+
+
+
+    </script>
+</body>
+</html>
